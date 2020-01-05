@@ -4,7 +4,7 @@ let routine = []
 function wakeDog(dogName, dogBreed){
   console.log(`Wake ${dogName} the ${dogBreed}`);
 }
- wakeDog()
+ wakeDog(dogName, dogBreed)
  
 
 function leashDog(dogName, dogBreed){
