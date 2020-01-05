@@ -14,6 +14,10 @@ function throwFrisbee(){
   console.log("Throw the frisbee for Byron the poodle");
 }
 
-function throwFrisbee(){
-  console.log("Throw the frisbee for Byron the poodle");
+function walkHome(){
+  console.log("Walk home with Byron the poodle");
+}
+
+function unleashDog(){
+  console.log("Unleash Byron the poodle");
 }
